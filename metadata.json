@@ -1,0 +1,7 @@
+{
+  "name": "Mine Dashboard - Nikel Operation",
+  "description": "Sistem Informasi Manajemen Operasional Tambang Nikel Terpadu: Produksi Ore, Analisa Lab QC, Barging, HM & Produktivitas Alat, Hujan, Fuel, Sewa Unit, RKAB, dan Master Data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
